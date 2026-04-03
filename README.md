@@ -1,10 +1,10 @@
 # 🏏 IPL Real-Time Intelligence System
 
-## 📌 Overview
+## Overview
 
 This project simulates a live IPL match using historical ball-by-ball data and provides real-time insights such as score updates, win probability, and match events.
 
-## 🚀 Features
+## Features
 
 * 📊 Ball-by-ball match simulation
 * 🎯 Target calculation for second innings
@@ -19,7 +19,7 @@ This project simulates a live IPL match using historical ball-by-ball data and p
 * Pandas
 * Streamlit
 
-## 🧠 How It Works
+## How It Works
 
 * Uses `deliveries.csv` for ball-by-ball data
 * Uses `matches.csv` for match context (teams, winner)
@@ -30,12 +30,8 @@ This project simulates a live IPL match using historical ball-by-ball data and p
   * Balls remaining
   * Wickets lost
 
-## ▶️ Run the Project
+## Run the Project
 
-```bash
-python train.py
-python -m streamlit run app.py
-```
 
 ## 💡 Key Learning
 
