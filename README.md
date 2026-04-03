@@ -33,6 +33,7 @@ This project simulates a live IPL match using historical ball-by-ball data and p
 ## ▶️ Run the Project
 
 ```bash
+python train.py
 python -m streamlit run app.py
 ```
 
